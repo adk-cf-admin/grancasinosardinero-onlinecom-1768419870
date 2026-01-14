@@ -1,0 +1,19 @@
+{
+  "name": "Gran Casino del Sardinero",
+  "short_name": "Gran Casino del Sardinero",
+  "theme_color": "",
+  "background_color": "#0074dd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768418493-cropped-casino-sardinero-fav-1-300x298.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
